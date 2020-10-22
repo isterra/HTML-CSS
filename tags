@@ -1,5 +1,8 @@
-b- negrito
+b  ou strong- negrito
 h,h2,...- cabeçalho(titulo com textos maiores)
-<br>-\n
+<br>- \n
 p - paragrafo
-hr - linha horizontal
+hr - linha horizontal  
+em- italico
+u- underline 
+strike- linha no meio da palavra
