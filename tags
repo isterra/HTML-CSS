@@ -9,3 +9,4 @@ strike- linha no meio da palavra
 ul- lista nao ordenada  (type:circle, square,disc)
 li- itens da lista
 ol-lista ordenada       (type:1, A,I,a)
+<img> - imagem
