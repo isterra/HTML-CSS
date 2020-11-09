@@ -12,3 +12,20 @@ ol-lista ordenada       (type:1, A,I,a)
 <img> - imagem
 
 <a> - link <a href=" " >
+<table> -<table border="1">
+        <tr>
+            <th>Codigo</th> table header
+            <th>Produto</th>
+            <th>Preco</th>
+        </tr>
+        <tr> table row
+            <td>000</td> table data
+            <td>Notebook</td>
+            <td>R$2500,99</td>
+        </tr>
+        <tr>
+            <td>001</td>
+            <td>Tablet</td>
+            <td>R$2500,99</td>
+        </tr>
+    </table > 
