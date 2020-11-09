@@ -29,3 +29,5 @@ ol-lista ordenada       (type:1, A,I,a)
             <td>R$2500,99</td>
         </tr>
     </table > 
+    colspan = extender coluna
+    rowspan = extender linha
