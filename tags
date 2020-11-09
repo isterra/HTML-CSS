@@ -31,3 +31,4 @@ ol-lista ordenada       (type:1, A,I,a)
     </table > 
     colspan = extender coluna
     rowspan = extender linha
+<form> -formulario tem <input> com tipos text, passord,submit...
